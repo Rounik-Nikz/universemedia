@@ -2,8 +2,8 @@
 
 import React, { useRef } from 'react';
 import gsap from "gsap";
-import {useGSAP} from "@gsap/react";
-import {ScrollTrigger} from "gsap/ScrollTrigger";
+import { useGSAP } from "@gsap/react";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import styles from './Resume.module.scss';
 
 import Image from "next/image";
@@ -51,9 +51,9 @@ export default function Resume() {
                             <div className={styles.cardInner}>
                                 <div className={styles.cardTitle}>Universe Media</div>
                                 <div className={styles.cardDesc}>Words from the owner</div>
-                                <hr/>
+                                <hr />
                                 <p>
-                                At Universe Media, we believe that marketing is more than just promotion, it's a powerful tool to connect with your audience on a deeper level. Our team is passionate about crafting innovative and effective campaigns that not only drive results but also leave a lasting impression.
+                                    At Universe Media, we believe that marketing is more than just promotion, it&apos;s a powerful tool to connect with your audience on a deeper level. Our team is passionate about crafting innovative and effective campaigns that not only drive results but also leave a lasting impression.
                                 </p>
                                 <div>
                                     <Link href={`mailto:${commonConfig.personal.email}`} target={'_blank'}>
@@ -61,18 +61,18 @@ export default function Resume() {
                                     </Link>
                                     <span>{commonConfig.personal.city}, {commonConfig.personal.state}</span>
                                 </div>
-                                <hr/>
+                                <hr />
                                 <div className={styles.cardSectionTitle}>Portfolio</div>
                                 <p>
-                                    Wonder Miracle Tourism | New Dilli Zaika <br/>
-                                    Acs Engineering | AVA Aircon <br/>
+                                    Wonder Miracle Tourism | New Dilli Zaika <br />
+                                    Acs Engineering | AVA Aircon <br />
                                     Many More...
                                 </p>
-                                
+
                             </div>
-                            
+
                             <figure className={styles.figure}>
-                                <Image src="/logo.png" alt="Logo" width={150} height={150}/>
+                                <Image src="/logo.png" alt="Logo" width={150} height={150} />
                             </figure>
                         </div>
                         {/* <div className={`${styles.card} ${styles.cardV2}`}>
