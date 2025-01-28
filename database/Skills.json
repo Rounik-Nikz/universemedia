@@ -1,0 +1,79 @@
+[
+  {
+    "icon": "IconSSM",
+    "image": "/icon/icon-ssm.png",
+    "title": "Social Media Marketing",
+    "subtitle": "Engage and Grow Your Audience",
+    "description": "Leverage the power of social media platforms to connect with your target audience, build brand awareness, and drive traffic to your website."
+  },
+  {
+    "icon": "IconWeb",
+    "image": "/icon/icon-webdev.png",
+    "title": "Website Development",
+    "subtitle": "Build Your Digital Presence",
+    "description": "Create robust, user-friendly websites that reflect your brand's identity and deliver a seamless user experience across all devices."
+  },
+  {
+    "icon": "IconUX",
+    "image": "/icon/icon-ux.png",
+    "title": "Website Design",
+    "subtitle": "Aesthetic Meets Functionality",
+    "description": "Design visually stunning websites that not only captivate visitors but also drive conversions through intuitive layouts and engaging content."
+  },
+  {
+    "icon": "IconVideo",
+    "image": "/icon/icon-videoMarketing.png",
+    "title": "Video Marketing",
+    "subtitle": "Capture Attention with Compelling Stories",
+    "description": "Utilize engaging video content to showcase your products, tell your brand story, and increase audience engagement across platforms."
+  },
+  {
+    "icon": "IconAnalytics",
+    "image": "/icon/icon-analytics.png",
+    "title": "Analytics and Report",
+    "subtitle": "Data-Driven Insights for Growth",
+    "description": "Monitor and analyze your marketing performance with detailed reports that inform your strategy and help optimize campaigns for better results."
+  },
+  {
+    "icon": "IconCRM",
+    "image": "/icon/icon-crm.png",
+    "title": "CRM",
+    "subtitle": "Manage Customer Relationships Effectively",
+    "description": "Implement tailored CRM solutions that enhance customer interaction, streamline communication, and foster long-lasting relationships."
+  },
+  {
+    "icon": "IconCRO",
+    "image": "/icon/icon-cro.png",
+    "title": "CRO",
+    "subtitle": "Optimize for Higher Conversions",
+    "description": "Increase your website's conversion rates through strategic testing and optimization that enhance user experience and drive sales."
+  },
+  {
+    "icon": "IconDigital",
+    "image": "/icon/icon-digital.png",
+    "title": "Digital Marketing",
+    "subtitle": "Holistic Strategies for Online Success",
+    "description": "Craft comprehensive digital marketing campaigns that encompass SEO, PPC, content marketing, and more to reach your business goals."
+  },
+  {
+    "icon": "IconSeo",
+    "image": "/icon/icon-seo.png",
+    "title": "SEO",
+    "subtitle": "Boost Your Online Visibility",
+    "description": "Enhance your website's search engine rankings with tailored SEO strategies that drive organic traffic and improve overall online presence."
+  },
+  {
+    "icon": "IconLead",
+    "image": "/icon/icon-lead.png",
+    "title": "Lead Generation",
+    "subtitle": "Fuel Your Sales Pipeline",
+    "description": "Implement targeted lead generation strategies that attract potential customers and nurture them through the sales funnel."
+  },
+  {
+    "icon": "IconBranding",
+    "image": "/icon/icon-branding.png",
+    "title": "Brand Development",
+    "subtitle": "Create a Lasting Impression",
+    "description": "Establish a strong brand identity that resonates with your audience, builds trust, and differentiates you from competitors."
+  }
+]

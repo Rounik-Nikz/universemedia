@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Universe Media",
+    "title": "Universe Media - Marketing Agency",
+    "description": "Delivering accessible, responsive, and engaging marketing solutions with a strong focus on performance and creativity.",
+    "timeZone": "Asia/Kolkata",
+    "locale": "en-US"
+  },
+  "personal": {
+    "name": "Universe Media",
+    "surname": "",
+    "role": "Marketing Agency",
+    "experience": 7,
+    "email": "universemediaaa@gmail.com",
+    "phone": "+91 91372 53663",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "Bharat",
+    "username": "@universemedia",
+    "resumeURL": "https://teal-grasshopper-805421.hostingersite.com/"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/104795609"
+  },
+  "content": {
+    "verse": "Marketing is no longer about the stuff that marketers make, but about the stories that customers tell"
+  }
+}

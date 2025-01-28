@@ -1,0 +1,56 @@
+{
+  "works": {
+    "isActive": false,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Works",
+    "description": "Here's a curated selection showcasing my expertise and the achieved results.",
+    "image": "",
+    "link": "#works"
+  },
+  "services": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Services",
+    "description": "Check out the things We're good at, from building websites to design and more.",
+    "image": "",
+    "link": "#skills"
+  },
+  "experience": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "About Us",
+    "description": "Check out the things I'm good at, from building websites to design and more.",
+    "image": "",
+    "link": "#experience"
+  },
+  "contact": {
+    "isActive":  true,
+    "showOnNavigation":  true,
+    "showOnFooter":  false,
+    "title": "Contact",
+    "description": "Now it’s your turn to say hi. I hope to hear from you!",
+    "image": "",
+    "link": "https://teal-grasshopper-805421.hostingersite.com/"
+  },
+  "about": {
+    "isActive":  false,
+    "showOnNavigation": false,
+    "showOnFooter": false,
+    "title": "About",
+    "description": "I design & develop modern and accessible web interfaces.",
+    "image": "",
+    "link": "/about"
+  },
+  "blog": {
+    "isActive":  false,
+    "showOnNavigation":  false,
+    "showOnFooter":  false,
+    "title": "Blog",
+    "description": "Articles focused on CSS, HTML, JavaScript, and other frontend stuff.",
+    "image": "",
+    "link": "/blog"
+  }
+}
